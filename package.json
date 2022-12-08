@@ -1,0 +1,16 @@
+{
+  "name": "fauscript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "esr index.ts"
+  },
+  "author": "j0nl1",
+  "license": "MIT",
+  "dependencies": {
+    "@cosmjs/proto-signing": "^0.29.4",
+    "axios": "^1.2.1",
+    "dotenv": "^16.0.3",
+    "esbuild-runner": "^2.2.2"
+  }
+}
